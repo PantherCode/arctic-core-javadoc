@@ -1,0 +1,15 @@
+org.panthercode.arctic.core.arguments
+org.panthercode.arctic.core.helper
+org.panthercode.arctic.core.helper.identity
+org.panthercode.arctic.core.helper.identity.annotation
+org.panthercode.arctic.core.helper.version
+org.panthercode.arctic.core.helper.version.annotation
+org.panthercode.arctic.core.io
+org.panthercode.arctic.core.processing
+org.panthercode.arctic.core.processing.container
+org.panthercode.arctic.core.processing.modules
+org.panthercode.arctic.core.processing.modules.annotation
+org.panthercode.arctic.core.settings
+org.panthercode.arctic.core.settings.configuration
+org.panthercode.arctic.core.settings.context
+org.panthercode.arctic.core.xml
