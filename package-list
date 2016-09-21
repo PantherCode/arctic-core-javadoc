@@ -7,8 +7,11 @@ org.panthercode.arctic.core.helper.version.annotation
 org.panthercode.arctic.core.io
 org.panthercode.arctic.core.processing
 org.panthercode.arctic.core.processing.container
+org.panthercode.arctic.core.processing.exception
 org.panthercode.arctic.core.processing.modules
 org.panthercode.arctic.core.processing.modules.annotation
+org.panthercode.arctic.core.repository
+org.panthercode.arctic.core.resources
 org.panthercode.arctic.core.settings
 org.panthercode.arctic.core.settings.configuration
 org.panthercode.arctic.core.settings.context
